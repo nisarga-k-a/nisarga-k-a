@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarga-k-a&label=Profile%20views&color=0e75b6&style=flat" alt="nisarga-k-a" /> </p>
 
-- 📫 How to reach me **indranisarga2003@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
